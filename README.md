@@ -1,3 +1,3 @@
 # power-bi
-Power bi projects
+Power bi projects. 
 This is where I post power bi projects
